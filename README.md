@@ -13,10 +13,10 @@ cd tphish
 
 luego
 
-chmod 777 Tphish.sh
+chmod 777 tphish.sh
 
 y ejecutamos con
 
-bash Tphish.sh
+bash tphish.sh
 
 NO NOS HACEMOS RESPONSABLES DE SU USO.
